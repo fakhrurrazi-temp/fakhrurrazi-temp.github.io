@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.8f5e5a5bedb50be2349d5d4fb1ab19d8.css"],"names":[],"mappings":"AACA,OACE,cAAgB,CACjB,AAED,eACE,UAAY,CACb","file":"app.8f5e5a5bedb50be2349d5d4fb1ab19d8.css","sourcesContent":["\n.title{\n  font-size: 16pt;\n}\n\n.employee-item{\n  color: grey;\n}\n"]}
